@@ -1,3 +1,5 @@
-pandas
+pandas==2.3.3
+d3blocks
 jupyter
+scikit-learn
 
